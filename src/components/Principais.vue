@@ -13,5 +13,15 @@ export default {
 </script>
 
 <style scoped>
+#principais {
+    padding: 10px;
+    width: 50%;
+}
 
+img {
+    height: 20%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
 </style>
